@@ -1,0 +1,1 @@
+cmd_/root/work/dd/iom_mydevice/iom_mydevice.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /root/work/dd/iom_mydevice/iom_mydevice.ko /root/work/dd/iom_mydevice/iom_mydevice.o /root/work/dd/iom_mydevice/iom_mydevice.mod.o;  true
