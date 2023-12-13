@@ -1,1 +1,0 @@
-cmd_/root/work/dd/iom_fnd_dd/iom_fnd_dd.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /root/work/dd/iom_fnd_dd/iom_fnd_dd.ko /root/work/dd/iom_fnd_dd/iom_fnd_dd.o /root/work/dd/iom_fnd_dd/iom_fnd_dd.mod.o;  true
